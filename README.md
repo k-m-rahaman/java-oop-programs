@@ -118,7 +118,7 @@ java ClassAndObject
 
 - ✅ Java Basics  
 - ✅ Java OOP  
-- 🔜 Exception Handling  
+- ✅ Exception Handling  
 - 🔜 Collections Framework  
 - 🔜 DSA in Java  
 - 🔜 Projects
